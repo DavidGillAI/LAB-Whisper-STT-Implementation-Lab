@@ -1,0 +1,12 @@
+1
+00:00:00,839 --> 00:00:03,140
+timestamps is exactly what it says on the tin
+
+2
+00:00:03,480 --> 00:00:06,659
+we speak for a little while and then
+
+3
+00:00:06,659 --> 00:00:09,979
+the AI will break it up and give time
+

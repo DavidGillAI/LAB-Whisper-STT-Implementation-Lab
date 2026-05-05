@@ -1,0 +1,3 @@
+[0.84s - 3.14s]  timestamps is exactly what it says on the tin
+[3.48s - 6.66s]  we speak for a little while and then
+[6.66s - 9.98s]  the AI will break it up and give time
